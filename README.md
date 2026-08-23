@@ -10,25 +10,29 @@ Este proyecto consiste en el desarrollo de un buzón de sugerencias para la cafe
 La página fue desarrollada en la herramienta stackblitz.com utilizando Node.js, Express, HTML, JavaScript y CSS, y fue publicada mediante la herramienta Render.
 
 Historias de usuario:
+
 1:
   Como cliente 
   sugiero la utilización de herramientas de pago como Nequi,
   para que sea más accesible los métodos de pago.
+  
 2:
  Como cliente de la cafetería.
  Quiero ver el menú del día y las ofertas vigentes desde mi celular.
  Para decidir qué pedir por mi cuenta de forma rápida y sin depender de un mesero.
+ 
 3:
  Como cliente
  Quiero como sugerencia que la cafetería implemente el servicio a domicilio 
  para brindar mayor comodidad a los clientes,  especialmente a quienes se encuentran en oficinas u otros  lugares de trabajo.
 
 Casos de prueba:
-         Acción	           |                       Resultado esperado	                           | ¿Pasó?
-Enviar sugerencia completa |	Se guarda la sugerencia y luego del mensaje se limpia el formulario|	✅
-Enviar con mensaje vacío   |	El servidor no la guarda porque el campo está vacío                |	✅
-Ver panel de administración|	Aparece la lista completa de las sugerencias realizadas            |	✅
-Visitar ruta inexistente   |	Devuelve un error 404 en formato JSON                              |  ✅
+| Acción | Resultado esperado | ¿Pasó? |
+|---|---|---|
+| Enviar sugerencia completa | Se guarda la sugerencia y luego del mensaje se limpia el formulario. | ✅ |
+| Enviar con mensaje vacío | El servidor no la guarda porque el campo está vacío. | ✅ |
+| Ver panel de administración | Aparece la lista completa de las sugerencias realizadas. | ✅ |
+| Visitar una ruta inexistente | Devuelve un error 404 en formato JSON. | ✅ |
 
 Enviar sugerencia completa: <img width="1488" height="757" alt="image" src="https://github.com/user-attachments/assets/9e76473e-5ef2-44d2-88ea-bc0832a45664" />
 Enviar con mensaje vacío: <img width="1499" height="758" alt="image" src="https://github.com/user-attachments/assets/e5ebce41-9fa5-4eaf-af9d-e17cb2e79f34" />
