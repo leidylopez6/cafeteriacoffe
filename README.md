@@ -40,6 +40,7 @@ Ver panel de administración: <img width="1527" height="662" alt="image" src="ht
 Visitar una ruta inexistente: <img width="1497" height="725" alt="image" src="https://github.com/user-attachments/assets/ffafe964-3600-47cf-a0b0-ef0cc48edabc" />
 
 Retrospectiva:
+
 ¿Qué funcionó bien?
 A la primera nos funcionó la conexión entre el formulario y el panel de administración, no tuvimos ningún inconveniente con enviar el formulario completo y luego visualizarlo por medio del admin.html. También nos funcionó muy bien la pagina publicada ya que la probamos en diferentes dispositivos (computadores y celulares) y el registro se guardaba correctamente. 
 
@@ -55,7 +56,9 @@ También agregaríamos almacenamiento permanente para que las sugerencias no se 
 finalmente, También le daríamos más estilo a la página como colores, tipografías y otras opciones de diseño para hacerla más atractiva y agradable para los usuarios.
 
 Enlace:
+
 Pagina publicada: https://cafeteriacoffe.onrender.com
+
 Repositorio en GitHub: https://github.com/leidylopez6/cafeteriacoffe
 
 
